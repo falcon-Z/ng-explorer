@@ -1,5 +1,7 @@
 # NgExplorer
 
+This is a project that explores the Jamstack architecture with angular and scully along with Netlify
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
 ## Development server
