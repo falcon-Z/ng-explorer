@@ -1,0 +1,3 @@
+[build]
+    publish = "dist/ng-explorer"
+    command = "ng build --prod"
